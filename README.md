@@ -1,8 +1,8 @@
-Nama: Haikal Lukman Nur Hakim
-Nim: 312410142
-Mata Kuliah: Pemrograman Web
-Nama Project: lab11_php_oop
-Tujuan Praktikum:
+# Nama: Haikal Lukman Nur Hakim
+# Nim: 312410142
+# Mata Kuliah: Pemrograman Web
+# Nama Project: lab11_php_oop
+## Tujuan Praktikum:
 
 Menerapkan modularisasi pada struktur aplikasi PHP
 
